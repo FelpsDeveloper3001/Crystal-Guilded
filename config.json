@@ -1,0 +1,19 @@
+{
+    "bot": {
+        "prefix": "c!",
+        "token": "gapi_NVNqbhnv+FRQJC9p/V3h7sOcEeZWEojBBDfMv7qlsckoPo86j16sxoQcB0foUoyj/AbSL+THxCL/jKmVyTVvgw==",
+        "log_channel": "80d2e3d7-b7e5-4b13-8d96-cf82838b1705",
+        "serverId": "RnJNm4GR",
+        "premiumRoleId": "39074488"
+    },
+    "api": {
+        "thecatapi": "live_9DBoyLhAflczLTkN4TuVnajX7fLwbrouWG7xAKMaCYgEb2QTSoBuVSHiqOcnTZ9a",
+        "whois": "20884EF23179414B518C08716D939065",
+        "imgbun": "b38234ebc2a7172e193a3f4951781f56",
+        "brainshop": "78pSpm4T2YETeoZC",
+        "nasa": "pbkfdhHlIpxxAosebtS1K5ybsErxbAcZev8lWbn3"
+    },
+    "mongodb": {
+        "url": "mongodb+srv://felpsdevguilded:W98030879w.@guilded-bot.yjlxcgp.mongodb.net/?retryWrites=true&w=majority&appName=Guilded-Bot"
+    }
+}
