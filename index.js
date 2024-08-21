@@ -2,6 +2,7 @@ const { Client } = require('guilded.ts')
 const { token } = require('./config.json').bot
 const fs = require('fs')
 const express = require('express');
+const bodyParser = require('body-parser');
 
 const app = express();
 app.use(bodyParser.json());
